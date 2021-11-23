@@ -1,6 +1,15 @@
 # CourseProjectShiny
 Peer-graded Assignment: Course Project: Shiny Application and Reproducible Pitch
 
+# Pitch Presentation
+
+https://rpubs.com/EPriske/Week4T
+
+# App
+
+https://erick-priske.shinyapps.io/Week4/
+
+
 ## Summary
 
 My objective with this Application is to be able to quickly search the name of the interested country and then it will display the cumulative confirmed cases of covid as well as the cumulative confirmed deaceses caused by covid. The data comes from "COVID-19 Open Data" and it is from "BigQuery Public Datasets Program". Here is a small description of the dataset:
@@ -8,17 +17,6 @@ My objective with this Application is to be able to quickly search the name of t
 "This repository contains the largest COVID-19 epidemiological database available in addition to a powerful set of expansive covariates. It includes open sourced data with a permissive license (enabling commercial use) relating to vaccinations, epidemiology, hospitalizations, demographics, economy, geography, health, mobility, government response, weather, and more. Moreover, the data merges daily time-series from hundreds of data sources at a fine spatial resolution, containing over 20,000 locations and using a consistent set of region keys."
 
 In the repository you can find all the documents used for this assigment.
-
-## Links to see the Presentation and App.
-
-
-# Presentation
-
-https://rpubs.com/EPriske/Week4T
-
-# App
-
-https://erick-priske.shinyapps.io/Week4/
 
 
 
